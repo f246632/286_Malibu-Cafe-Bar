@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "name": "Kaffee & Heißgetränke",
+      "nameEn": "Coffee & Hot Beverages",
+      "items": [
+        {"name": "Espresso", "price": "2.50€", "description": "Klassischer italienischer Espresso"},
+        {"name": "Cappuccino", "price": "3.50€", "description": "Espresso mit geschäumter Milch"},
+        {"name": "Latte Macchiato", "price": "3.80€", "description": "Milchkaffee im Glas"},
+        {"name": "Americano", "price": "3.00€", "description": "Verlängerter Espresso"},
+        {"name": "Tee (verschiedene Sorten)", "price": "2.80€", "description": "Schwarztee, Grüntee, Früchtetee, Kräutertee"}
+      ]
+    },
+    {
+      "name": "Kaltgetränke",
+      "nameEn": "Cold Beverages",
+      "items": [
+        {"name": "Eiskaffee", "price": "4.50€", "description": "Kalter Kaffee mit Vanilleeis"},
+        {"name": "Frappé", "price": "4.80€", "description": "Eisgekühlter geschäumter Kaffee"},
+        {"name": "Smoothies", "price": "5.50€", "description": "Frische Frucht-Smoothies"},
+        {"name": "Hausgemachte Limonade", "price": "3.80€", "description": "Erfrischende selbstgemachte Limonade"},
+        {"name": "Softdrinks", "price": "3.00€", "description": "Cola, Fanta, Sprite, Wasser"}
+      ]
+    },
+    {
+      "name": "Alkoholische Getränke",
+      "nameEn": "Alcoholic Beverages",
+      "items": [
+        {"name": "Bier vom Fass", "price": "3.80€", "description": "0.3l lokales Bier"},
+        {"name": "Wein (Glas)", "price": "4.50€", "description": "Rot- oder Weißwein"},
+        {"name": "Cocktails", "price": "7.50€", "description": "Klassische und moderne Cocktails"},
+        {"name": "Longdrinks", "price": "6.50€", "description": "Verschiedene Spirituosen mit Mixer"},
+        {"name": "Prosecco", "price": "5.00€", "description": "0.1l italienischer Prosecco"}
+      ]
+    },
+    {
+      "name": "Snacks",
+      "nameEn": "Snacks",
+      "items": [
+        {"name": "Belegte Brötchen", "price": "4.50€", "description": "Frisch belegte Brötchen nach Wahl"},
+        {"name": "Kuchen", "price": "3.80€", "description": "Hausgemachter Kuchen (täglich wechselnd)"},
+        {"name": "Gebäck", "price": "2.50€", "description": "Croissants, Muffins, Cookies"},
+        {"name": "Tapas-Teller", "price": "8.50€", "description": "Auswahl an mediterranen Häppchen"}
+      ]
+    }
+  ],
+  "specialties": [
+    {
+      "name": "Malibu Signature Cocktail",
+      "price": "8.50€",
+      "description": "Unser Hauscocktail mit Malibu Rum, frischer Kokosmilch und tropischen Früchten",
+      "featured": true
+    },
+    {
+      "name": "Café Malibu Special",
+      "price": "5.50€",
+      "description": "Besonderer Eiskaffee mit Kokos-Sahne und Karamell",
+      "featured": true
+    }
+  ]
+}

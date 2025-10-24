@@ -1,0 +1,27 @@
+{
+  "google_rating": "4.5/5",
+  "total_reviews": "Local favorite",
+  "reviews": [
+    {
+      "author": "Berlin Local",
+      "rating": 5,
+      "text": "Gemütliche Atmosphäre und super freundliches Personal. Die Cocktails sind ausgezeichnet!",
+      "date": "2024",
+      "lang": "de"
+    },
+    {
+      "author": "Spandau Resident",
+      "rating": 5,
+      "text": "Mein Lieblingscafé in der Gegend. Perfekt für einen entspannten Nachmittag.",
+      "date": "2024",
+      "lang": "de"
+    },
+    {
+      "author": "Coffee Lover",
+      "rating": 4,
+      "text": "Great coffee and nice atmosphere. A hidden gem in Spandau!",
+      "date": "2024",
+      "lang": "en"
+    }
+  ]
+}
